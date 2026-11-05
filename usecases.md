@@ -53,6 +53,7 @@
 | Q2 | Eigene Aufgaben/ToDos aus Notizen → Jira `MP` | Jira | Ge | M | idee |
 | Q3 | Meeting-/Telefonnotizen strukturieren | Chat | Ge | M | idee |
 | Q4 | Excel/Power-BI-Auswertungen (Formeln, DAX, VBA) | Code/Chat | Ge | M | idee |
+| Q5 | Copilot-Skill-Dateien für M365 Copilot beim Kunden (als .md anhängen): Excel-Eintrag, Protokoll, Mail, Testfälle | Skill `copilot-skill` → `bausteine/copilot-*.md` | G | **H** | getestet (`copilot-excel-eintrag`) |
 
 ## Wo was Sinn macht
 
@@ -63,6 +64,7 @@
 | **Repo `bausteine/`** | Neutrale Vorlagen, die in jedem Projekt wieder gebraucht werden | Alles mit Kundenbezug |
 | **Claude Code** | Dateien/Code: VBA, Python, MDK, Massen-Umformungen | Fließtext-Arbeit |
 | **Jira-Connector** | Eigene Aufgaben in `MP` | Kunden-Jira (nur falls freigegeben) |
+| **M365 Copilot beim Kunden** | Arbeit direkt in Kunden-Dateien (Excel, Word, Outlook), gesteuert über angehängte Copilot-Skill-Dateien | Freie Prompts ohne Vorlage – zu fehleranfällig |
 
 ## Nicht sinnvoll / Vorsicht
 
