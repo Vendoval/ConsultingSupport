@@ -37,3 +37,8 @@
   - [ ] Micha: Startdatum/KW und Besetzung klären, dann auf KW umstellen (Feiertage Jahresende beachten)
   - [ ] Doppelte Zeilen in der Aufgabenliste klären (2. Runde oder Kopierfehler)
 - Bei Wiederholung: Generator als neutralen Baustein `bausteine/` anlegen (Use Case P2)
+
+## 2026-11-09 – Timeline: Kachel-Stil statt Gantt fürs Management
+- Micha bevorzugt für Kick-off-Folien Phasen als Kacheln mit Pfeilen (Vorbereitung, Vortest, Vorentwicklungsvorbereitung, Entwicklung, Test, Go Live) statt Gantt
+- Umsetzung: Seite 1 Kacheln + Meilenstein-Leiste darunter, Klammer „Vorphase (geplant)“ vs. „Folgephasen (Planung nach Fit/Gap)“; Seite 2 Detailplan je Team als Gantt bleibt
+- Erkenntnis: Ungeplante Folgephasen heller und gestrichelt darstellen, Platzhalter `[Text]` stehen lassen
