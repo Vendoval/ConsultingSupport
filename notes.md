@@ -28,3 +28,12 @@
   - [ ] Weitere Copilot-Skills: `copilot-protokoll`, `copilot-mail`, `copilot-testfaelle`
   - [ ] Datei suchen in verschachteltem SharePoint: Favoriten/„Meine Dateien“ oder Copilot-Chat-Suche testen
   - [ ] Bei wiederkehrend gleichen Listen: Power-Automate-Flow „Zeile hinzufügen“ prüfen
+
+## 2026-11-09 – Kick-off-Timeline als draw.io
+- Timeline fürs mittlere Management aus Aufgabenliste (Reihenfolge, Kategorie, PT) als draw.io-XML erzeugt, per Python-Skript generiert
+- Aufbau bewährt: Seite 1 Management (3 Phasen + Puffer, Meilensteine, externe Abhängigkeit SAP-Release, Annahmen), Seite 2 Detail je Team (Backend, Fachbereich, Frontend/MDK, Middleware/BTP)
+- Erkenntnis: Ohne Startdatum und Besetzung relative Wochen (W1 …) plus sichtbarer Annahmen-Kasten; Release-Abhängigkeit als eigener Meilenstein
+- Offene Punkte:
+  - [ ] Micha: Startdatum/KW und Besetzung klären, dann auf KW umstellen (Feiertage Jahresende beachten)
+  - [ ] Doppelte Zeilen in der Aufgabenliste klären (2. Runde oder Kopierfehler)
+- Bei Wiederholung: Generator als neutralen Baustein `bausteine/` anlegen (Use Case P2)
