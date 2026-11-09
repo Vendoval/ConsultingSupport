@@ -42,3 +42,9 @@
 - Micha bevorzugt für Kick-off-Folien Phasen als Kacheln mit Pfeilen (Vorbereitung, Vortest, Vorentwicklungsvorbereitung, Entwicklung, Test, Go Live) statt Gantt
 - Umsetzung: Seite 1 Kacheln + Meilenstein-Leiste darunter, Klammer „Vorphase (geplant)“ vs. „Folgephasen (Planung nach Fit/Gap)“; Seite 2 Detailplan je Team als Gantt bleibt
 - Erkenntnis: Ungeplante Folgephasen heller und gestrichelt darstellen, Platzhalter `[Text]` stehen lassen
+
+## 2026-11-09 – Timeline: grobe Monats-Roadmap fürs Management
+- Für Management reicht Monatsebene: Phasen-Pfeile über Monate, 2–3 Stichpunkte je Phase, Meilenstein-Leiste, Fußzeile mit Annahmen
+- Grobablauf SSAM-Upgrade: Fit/Gap in Sandbox (Nov–Mitte Dez) → Vorbereitung Entwicklungsumgebung (Dez) → Entwicklung (Jan–Ende Mär) → Test (Apr) → Go Live (Jun 2027)
+- Mai als Vorschlag für Schulung, Cutover, Go/No-Go (von Micha zu bestätigen)
+- Detail-Gantt der Vorphase bleibt als Backup-Seite
