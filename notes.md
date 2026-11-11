@@ -48,3 +48,9 @@
 - Grobablauf SSAM-Upgrade: Fit/Gap in Sandbox (Nov–Mitte Dez) → Vorbereitung Entwicklungsumgebung (Dez) → Entwicklung (Jan–Ende Mär) → Test (Apr) → Go Live (Jun 2027)
 - Mai als Vorschlag für Schulung, Cutover, Go/No-Go (von Micha zu bestätigen)
 - Detail-Gantt der Vorphase bleibt als Backup-Seite
+
+## 2026-11-11 – Feinplanung präsentationsfähig machen
+- Michas Rohentwurf (lose Step-Shapes, Clouds, Callouts) umgebaut zu Matrix: Spalten = Phasen/Systemstufen mit Zeitraum, Zeilen = Arbeitsbereiche (Analyse, Backend, Frontend, Middleware, Jobs & Doku, Test, Betrieb, Cutover & Kommunikation)
+- Meilensteine/Versionsstände auf die Phasengrenzen, Probelauf in der Sandbox gestrichelt → Wiederholung derselben Aufgaben wird als „erst erproben, dann umsetzen“ lesbar
+- Cutover-Callouts als Ablauf sortiert: Vorgehen festlegen (Testphase) → T–1 Woche (Hinweis alte App, neue App verteilen) → Go-Live-Tag
+- Erkenntnis: Offene Fragen aus Entwürfen (Clouds/Callouts) nicht auf die Folie, sondern als Rückfragen klären
