@@ -74,3 +74,8 @@
 - Beim Kunden kommen Diagramme nur als Screenshot in die Folie → Format egal, Hauptsache gut lesbar
 - Vorgehen: erst Zahlen tabellarisch im Chat abstimmen (Monat × Ressource, PT je Aufgabe), danach visualisieren
 - draw.io behalten für Prozess-/Architekturbilder; für Zahlenplanung besser Tabelle/Excel als eine Datenquelle
+
+## 2026-11-12 – Ressourcenplanung als Tabelle (Sheets)
+- Planung als Sheet mit 2 Blättern: „Aufgaben“ (Monat, Ressource, Aufgabe, PT, Quelle, Phase) als einzige Datenquelle, „Auslastung“ rechnet per Formel PT und % je Ressource/Monat, Budget kumuliert, Puffer
+- Quelle je Zeile als Dropdown (Grobstand / verschoben / geteilt / Vorschlag), Ampel per bedingter Formatierung → Screenshot-fähig für Kundenfolie
+- Erkenntnis: Monat als Text + SUMPRODUCT statt SUMIFS, sonst kann Monatstext als Datum interpretiert werden
