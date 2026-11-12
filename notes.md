@@ -62,3 +62,10 @@
 - Offene Punkte:
   - [ ] Micha: Schätzvorschläge ab Versionswechsel bestätigen/korrigieren
   - [ ] Micha: klären, ob Budget die Vorphase einschließt
+
+## 2026-11-12 – Auslastungsfolie für Product Owner
+- Für PO statt Aufgaben-Matrix: Ressourcen × Monate, je Zelle Auslastung in %, „x von y PT“, Ampelbalken (≥ 90 % / 50–89 % / < 50 %), 1 Zeile Hauptaufgaben
+- Monate ohne Aufgaben des Versionswechsels als „frei für neue Anforderungen“ mit Kapazität zeigen, unten Budgetzeile je Monat + kumuliert, Kasten mit 3–4 Kernaussagen
+- Kapazität = Arbeitstage NRW ohne Urlaub (Feiertage berücksichtigen, Mai deutlich kürzer)
+- Erkenntnis: Monatsauslastung je Rolle macht Engpässe (hier Dezember) für Nicht-Techniker sofort sichtbar
+- [ ] Micha: Verschiebung Metadaten → Frontend und Fit/Gap fachlich → Berater bestätigen (Grundlage der Folie)
