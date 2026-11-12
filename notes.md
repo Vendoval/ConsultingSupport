@@ -89,4 +89,7 @@
 ## 2026-11-12 – Zusätzliche Ressource auf Bedarf
 - Zweiter Backend-Entwickler verfügbar, wird nur auf Bedarf eingeplant → in der Planungstabelle als eigene Ressource „Backend 2 (Bedarf)“ mit PT und % (bezogen auf vollen Monat)
 - Erkenntnis: Bedarfsressource als eigene Spalte führen statt in „Backend“ zu mischen, sonst verschwindet die Überlast der Stammressource
-- [ ] Micha: entscheiden, welche Dezember-Aufgaben vom Backend auf Backend 2 gehen (Backend Dez 118 %)
+- [x] Micha: entscheiden, welche Dezember-Aufgaben vom Backend auf Backend 2 gehen (Backend Dez 118 %)
+
+## 2026-11-12 – Entscheidung Dezember-Entlastung
+- Variante A: Backend-Anteil der Configpanel-Migration (2,5 PT) geht an Backend 2 (Bedarf) als Unterstützung des Stammentwicklers → Backend Dez 100 %, Backend 2 Dez 18 %
