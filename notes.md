@@ -93,3 +93,7 @@
 
 ## 2026-11-12 – Entscheidung Dezember-Entlastung
 - Variante A: Backend-Anteil der Configpanel-Migration (2,5 PT) geht an Backend 2 (Bedarf) als Unterstützung des Stammentwicklers → Backend Dez 100 %, Backend 2 Dez 18 %
+
+## 2026-11-12 – Planung als Excel-Datei
+- Sheet als .xlsx nachgebaut (openpyxl, Formeln, Datenüberprüfung, bedingte Formatierung, Eingabefelder blau) – der Download aus dem Sheet verliert die Ampelregeln
+- Ab jetzt zwei Stände möglich (Sheet und Excel) → eine Quelle festlegen
