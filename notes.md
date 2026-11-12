@@ -69,3 +69,8 @@
 - Kapazität = Arbeitstage NRW ohne Urlaub (Feiertage berücksichtigen, Mai deutlich kürzer)
 - Erkenntnis: Monatsauslastung je Rolle macht Engpässe (hier Dezember) für Nicht-Techniker sofort sichtbar
 - [ ] Micha: Verschiebung Metadaten → Frontend und Fit/Gap fachlich → Berater bestätigen (Grundlage der Folie)
+
+## 2026-11-12 – Arbeitsweise Planungsfolien
+- Beim Kunden kommen Diagramme nur als Screenshot in die Folie → Format egal, Hauptsache gut lesbar
+- Vorgehen: erst Zahlen tabellarisch im Chat abstimmen (Monat × Ressource, PT je Aufgabe), danach visualisieren
+- draw.io behalten für Prozess-/Architekturbilder; für Zahlenplanung besser Tabelle/Excel als eine Datenquelle
