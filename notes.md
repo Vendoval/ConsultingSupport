@@ -79,3 +79,9 @@
 - Planung als Sheet mit 2 Blättern: „Aufgaben“ (Monat, Ressource, Aufgabe, PT, Quelle, Phase) als einzige Datenquelle, „Auslastung“ rechnet per Formel PT und % je Ressource/Monat, Budget kumuliert, Puffer
 - Quelle je Zeile als Dropdown (Grobstand / verschoben / geteilt / Vorschlag), Ampel per bedingter Formatierung → Screenshot-fähig für Kundenfolie
 - Erkenntnis: Monat als Text + SUMPRODUCT statt SUMIFS, sonst kann Monatstext als Datum interpretiert werden
+
+## 2026-11-12 – Budget- und Fortschrittsmessung in der Planungstabelle
+- Aufgabenliste um Plan PT, Ist PT und Status (offen / in Arbeit / erledigt) erweitert; Ist-Verbrauch vor Planstart als eigene erledigte Zeile
+- Kopfblock: Gesamtbudget, Verbraucht (Ist, % vom Budget), Restbudget, offen geplant, Puffer, Erledigt (Plan-PT, % des Plans), Abweichung Ist – Plan bei erledigten Aufgaben
+- Erkenntnis: Fortschritt = Plan-PT erledigter Aufgaben, gegen Ist-PT gestellt (einfacher Earned-Value-Ansatz) – funktioniert nur, wenn Status und Ist PT laufend gepflegt werden
+- Neue Anforderungen & Defects bewusst außerhalb dieses Budgets
