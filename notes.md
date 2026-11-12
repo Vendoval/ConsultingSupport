@@ -97,3 +97,8 @@
 ## 2026-11-12 – Planung als Excel-Datei
 - Sheet als .xlsx nachgebaut (openpyxl, Formeln, Datenüberprüfung, bedingte Formatierung, Eingabefelder blau) – der Download aus dem Sheet verliert die Ampelregeln
 - Ab jetzt zwei Stände möglich (Sheet und Excel) → eine Quelle festlegen
+
+## 2026-11-12 – Folie „Ressourcen Planung Grob“
+- Micha hat eigene PPT-Tabelle (Ressource, Verfügbarkeit, AT, Monate Nov–Jun); Werte nur als Tabelle geliefert, Eintrag macht Micha
+- Festlegungen: Zellen = nur Plan-PT; AT = verfügbare Arbeitstage Nov–Jun × Verfügbarkeit; Berater-PT je zur Hälfte auf Berater 1/2
+- Neu: zweiter Backend-Entwickler mit 75 % Verfügbarkeit
