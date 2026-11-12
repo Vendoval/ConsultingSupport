@@ -85,3 +85,8 @@
 - Kopfblock: Gesamtbudget, Verbraucht (Ist, % vom Budget), Restbudget, offen geplant, Puffer, Erledigt (Plan-PT, % des Plans), Abweichung Ist – Plan bei erledigten Aufgaben
 - Erkenntnis: Fortschritt = Plan-PT erledigter Aufgaben, gegen Ist-PT gestellt (einfacher Earned-Value-Ansatz) – funktioniert nur, wenn Status und Ist PT laufend gepflegt werden
 - Neue Anforderungen & Defects bewusst außerhalb dieses Budgets
+
+## 2026-11-12 – Zusätzliche Ressource auf Bedarf
+- Zweiter Backend-Entwickler verfügbar, wird nur auf Bedarf eingeplant → in der Planungstabelle als eigene Ressource „Backend 2 (Bedarf)“ mit PT und % (bezogen auf vollen Monat)
+- Erkenntnis: Bedarfsressource als eigene Spalte führen statt in „Backend“ zu mischen, sonst verschwindet die Überlast der Stammressource
+- [ ] Micha: entscheiden, welche Dezember-Aufgaben vom Backend auf Backend 2 gehen (Backend Dez 118 %)
