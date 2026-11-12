@@ -54,3 +54,11 @@
 - Meilensteine/Versionsstände auf die Phasengrenzen, Probelauf in der Sandbox gestrichelt → Wiederholung derselben Aufgaben wird als „erst erproben, dann umsetzen“ lesbar
 - Cutover-Callouts als Ablauf sortiert: Vorgehen festlegen (Testphase) → T–1 Woche (Hinweis alte App, neue App verteilen) → Go-Live-Tag
 - Erkenntnis: Offene Fragen aus Entwürfen (Clouds/Callouts) nicht auf die Folie, sondern als Rückfragen klären
+
+## 2026-11-12 – Feinplanung mit PT-Schätzung und Budgetabgleich
+- Lane-Matrix um PT je Zelle erweitert: Badge rechts in jedem Kasten, Σ je Phase im Kopf, Zeile „Auslastung“ je Entwickler, Budgetbalken unten (Phasen + Puffer)
+- Kennzeichnung: Zahlen aus Grobstand ohne Zeichen, eigene Schätzvorschläge mit „≈“ → Herkunft der Zahlen bleibt sichtbar
+- Erkenntnis: Kapazitätsprüfung je Rolle (Arbeitstage im Zeitfenster vs. PT je Kategorie) deckt Engpässe auf, die die Gesamtsumme versteckt (Backend überlastet in der Vorphase, Frontend frei)
+- Offene Punkte:
+  - [ ] Micha: Schätzvorschläge ab Versionswechsel bestätigen/korrigieren
+  - [ ] Micha: klären, ob Budget die Vorphase einschließt
