@@ -111,3 +111,6 @@
 - Offene Punkte:
   - [ ] Micha: Restrisiko-Einstufung „mittel“ bestätigen
   - [ ] Micha: Platzhalter Datum, Aufwand (PT/€), Laufzeit Sandbox füllen
+
+## 2026-11-25 – Onepager zusätzlich als PowerPoint
+- Onepager als .pptx nachgebaut (Calibri, alle Elemente als editierbare Formen/Textfelder, Sprechernotizen) → kann direkt in Kundenfolien übernommen werden
