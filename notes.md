@@ -102,3 +102,12 @@
 - Micha hat eigene PPT-Tabelle (Ressource, Verfügbarkeit, AT, Monate Nov–Jun); Werte nur als Tabelle geliefert, Eintrag macht Micha
 - Festlegungen: Zellen = nur Plan-PT; AT = verfügbare Arbeitstage Nov–Jun × Verfügbarkeit; Berater-PT je zur Hälfte auf Berater 1/2
 - Neu: zweiter Backend-Entwickler mit 75 % Verfügbarkeit
+
+## 2026-11-25 – Onepager Risikominimierung durch Sandbox (Management)
+- Folie als Slides-Onepager: 3 Spalten Ausgangslage/Risiko → Risikomatrix (Auswirkung × Eintrittswahrscheinlichkeit, „Heute“ vs. „Mit Sandbox“) → Maßnahme in 2 Phasen (Entwicklung, Betrieb); unten Band „Nutzen“ + „Entscheidung“ mit Platzhaltern
+- Argumentationskern: keine reguläre Entwicklungsschiene, nur Notkorrektur-Schiene; komplexes Update, bei Fehler im TCI nur Rollback → Notkorrektur-Schiene blockiert. Auswirkung hoch, Eintritt mittel–hoch (neue Version)
+- Erkenntnis: Sandbox senkt die Eintrittswahrscheinlichkeit, nicht die Auswirkung → Restrisiko ehrlich als „mittel“ zeigen statt „niedrig“
+- Erkenntnis: Risikostufen nie nur über Farbe – Legende mit Worten, Bewertung zusätzlich als Text-Kacheln
+- Offene Punkte:
+  - [ ] Micha: Restrisiko-Einstufung „mittel“ bestätigen
+  - [ ] Micha: Platzhalter Datum, Aufwand (PT/€), Laufzeit Sandbox füllen
